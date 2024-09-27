@@ -18,6 +18,20 @@ Use
     Clone the repository: git clone https://github.com/votre-user/BTCPriceMonitor.git
     Install the dependencies: npm install (or the appropriate command for your package manager)
     Run the script: npm start
+    or
+    Access the script directory:
+
+    cd /path/to/your/script
+
+    Make the script executable:
+
+    chmod +x KALIPYTHON3.sh
+
+    Run the script:
+
+    ./KALIPYTHON3.sh
+
+
 
 Contributions
 
